@@ -182,5 +182,5 @@ public final class Snake {
         init();
         life = true;
     }
-
+    
 }
